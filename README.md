@@ -1,6 +1,6 @@
 ## Hi, i'm Felipe! 👋
 
-<div align="center"> ### https://fesofeng.github.io/my-portfolio/ <div align="center">
+### https://fesofeng.github.io/my-portfolio/ 
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
