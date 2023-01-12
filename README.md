@@ -1,11 +1,5 @@
 ## Hi, i'm Felipe! 👋
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fesofeng&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesofeng&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-
 ### Main skills:
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FC490B&labelColor=0D1117)&nbsp;
